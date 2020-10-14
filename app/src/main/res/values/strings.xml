@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">My Application</string>
+    <string name="myText">Lorem ipsum dolor sit amet, consectetur adipiscing elit. Fusce et porta purus, non posuere purus. Nam sed libero et ipsum bibendum sagittis. Aenean finibus volutpat lacus, a mattis lectus. Vestibulum tellus orci, blandit convallis ultrices quis, porta eu nisl. Nullam id tincidunt velit. Fusce vel leo enim. In lobortis, ipsum id tincidunt vehicula, erat purus ultricies tortor, ut vestibulum massa mauris sit amet justo. Etiam leo dui, semper a tortor placerat, elementum posuere est. Nulla maximus nisi vel nisi consectetur molestie. Ut quis fringilla ligula, vitae auctor elit. Pellentesque varius turpis id pulvinar fermentum. In hac habitasse platea dictumst. Mauris.</string>
+</resources>
